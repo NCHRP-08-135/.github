@@ -41,7 +41,7 @@ Professorship for Modeling Spatial Mobility
 Munich, Germany  
 Phone +49 (0)89 289 22879  
 ana.moreno@tum.de  
-www.msm.bgu.tum.de  
+www.mos.ed.tum.de/tb/team/am/
 
 Bastian Schroeder, PE, PhD  
 Senior Principal Engineer  
